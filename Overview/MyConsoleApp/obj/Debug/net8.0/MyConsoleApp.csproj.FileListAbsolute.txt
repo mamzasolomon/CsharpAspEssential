@@ -12,3 +12,4 @@ C:\Users\mamza\Desktop\Programming2\Start\Overview\MyConsoleApp\obj\Debug\net8.0
 C:\Users\mamza\Desktop\Programming2\Start\Overview\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.pdb
 C:\Users\mamza\Desktop\Programming2\Start\Overview\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.genruntimeconfig.cache
 C:\Users\mamza\Desktop\Programming2\Start\Overview\MyConsoleApp\obj\Debug\net8.0\ref\MyConsoleApp.dll
+C:\Users\mamza\Desktop\Programming2\Start\Overview\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.sourcelink.json
